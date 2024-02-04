@@ -7,7 +7,7 @@
 </div>
 
 ###
-
+<img align="left" height="300" src="https://camo.githubusercontent.com/752fcc9f8c57cd001786b89f4d3b2bb2d04f9984528bad28d5db44c4bab5c28e/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966"  />
 <br clear="both">
 
 <div align="center">
@@ -19,6 +19,6 @@
 
 <br clear="both">
 
-<img align="left" height="300" src="https://camo.githubusercontent.com/752fcc9f8c57cd001786b89f4d3b2bb2d04f9984528bad28d5db44c4bab5c28e/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966"  />
+
 
 ###
