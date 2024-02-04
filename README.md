@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/kevin-babu-dotcom/count.svg?"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
