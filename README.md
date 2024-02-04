@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+const name = 'kevin';
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+
 <!--
 **kevin-babu-dotcom/kevin-babu-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
