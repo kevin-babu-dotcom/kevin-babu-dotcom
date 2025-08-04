@@ -9,10 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-babu-dotcom&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kevin-babu-dotcom&icon=9&color=11)](https://visitcount.itsvg.in)
 
